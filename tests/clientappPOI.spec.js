@@ -1,5 +1,5 @@
 import { expect, test } from '@playwright/test';
-import {POManager} from '../pageObjects/POManager.js';
+import {POManager} from '../PageObjects/POManager.js';
 import data from '../utils/PlaceorderTestData.json' with { type: 'json' };
 
 data.forEach(d=>

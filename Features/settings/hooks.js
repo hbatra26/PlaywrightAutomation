@@ -1,6 +1,6 @@
 import { Before,After, BeforeStep, AfterStep,Status } from "@cucumber/cucumber";
 import { chromium } from "@playwright/test";
-import { POManager } from "../../pageObjects/POManager.js";
+import { POManager } from "../../PageObjects/POManager.js";
 import path from "node:path";
 
 Before(async function () {

@@ -1,4 +1,4 @@
-import { POManager } from "../../pageObjects/POManager.js";
+import { POManager } from "../../PageObjects/POManager.js";
 import { Given,When,Then, } from "@cucumber/cucumber";
 import {chromium, expect} from "@playwright/test";
  
