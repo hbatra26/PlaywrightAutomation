@@ -1,0 +1,145 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.100033201.1767208888",
+      "domain": ".rahulshettyacademy.com",
+      "path": "/",
+      "expires": 1801768888.240944,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1767208888428.852408231575203740",
+      "domain": ".rahulshettyacademy.com",
+      "path": "/",
+      "expires": 1774984892,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "li_sugr",
+      "value": "1f945a06-f293-4924-a0dd-a9dd3d32fedd",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1774984890.09228,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bcookie",
+      "value": "\"v=2&50ae5233-879b-4878-87be-e7e5ffea1a8f\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1798744890.092398,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lidc",
+      "value": "\"b=TGST06:s=T:r=T:a=T:p=T:g=3310:u=1:x=1:i=1767208888:t=1767295288:v=2:sig=AQF1syqup1FMRQi7xdVeovN7kCpEVAtc\"",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1767295288.661036,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMatchHistory",
+      "value": "AQK_6zcylfLm_QAAAZt126m1X5Y5J9jHzx_AKhvfAPbEjpFGJ0vsq7ycu8RArsQ5Tis-8vB0Kv1PeQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1769800888.970373,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AnalyticsSyncHistory",
+      "value": "AQLyLOsAr6BHZwAAAZt126m1f9arsBGEOlwD-WnDWKvSOAYzyiNlN2ndf-6DK-02hjRMPy8D1O7-VJfxE8QtwQ",
+      "domain": ".linkedin.com",
+      "path": "/",
+      "expires": 1769800888.970484,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bscookie",
+      "value": "\"v=1&20251231192129898182d8-22c4-4a6c-8bac-734b15679a6fAQHUWqgBqPpYWFca0KE7QqbG-nWjifvG\"",
+      "domain": ".www.linkedin.com",
+      "path": "/",
+      "expires": 1798744889.300478,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga_NVJT9K1HZ2",
+      "value": "GS2.1.s1767208888$o1$g0$t1767208891$j57$l0$h1618388811",
+      "domain": ".rahulshettyacademy.com",
+      "path": "/",
+      "expires": 1801768891.837575,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.114348098.1767208888.147126897.1767208892.1767208891",
+      "domain": ".rahulshettyacademy.com",
+      "path": "/",
+      "expires": 1774984888,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmQ3pr9EGcOq6231cE0FjQjks7fjpUHovd9iBn1uS_-yCdKcmbduHsNdOUg",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1801768892.164538,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://rahulshettyacademy.com",
+      "localStorage": [
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjBjN2JmMTQ4NzY3ZjFmMTIxNWQyY2EiLCJ1c2VyRW1haWwiOiJhbnNoaWthQGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjk4NzY1NDMyMTAsImlhdCI6MTc2NzIwODg5MiwiZXhwIjoxNzk4NzY2NDkyfQ.XqxduwId94QWTFb96S_T3l9vZ3d9vmAv5qeAcDChcek"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gcl_ctr\":{\"value\":{\"value\":1,\"timeouts\":0,\"creationTimeMs\":1767208888398},\"expires\":1774984888398}}"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1767208888412"
+        },
+        {
+          "name": "li_adsId",
+          "value": "c55adeb0-75b2-412a-80c0-41f88a01da46"
+        },
+        {
+          "name": "topicsLastReferenceTime",
+          "value": "1767208892151"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="20.896663">
+<testsuite name="uibasics.spec.js" timestamp="2026-01-08T14:15:47.785Z" hostname="Chrome Execution" tests="2" failures="0" skipped="0" time="30.925" errors="0">
+<testcase name="@Web browser Playwright test" classname="uibasics.spec.js" time="12.709">
+</testcase>
+<testcase name="@Web page  Playwright test" classname="uibasics.spec.js" time="18.216">
+<system-out>
+<![CDATA[Incorrect username/password.
+iphone X
+[ 'iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry' ]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
