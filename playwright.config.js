@@ -34,7 +34,7 @@ export default defineConfig({
   
   use: {
     browserName: 'chromium',
-    headless: false,
+    headless: true,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'retain-on-failure',
@@ -49,7 +49,7 @@ export default defineConfig({
       name: 'Safari Execution',
       use: {
     browserName: 'webkit',
-    headless: false,
+    headless: true,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'retain-on-failure',
@@ -62,7 +62,7 @@ export default defineConfig({
       name: 'Chrome Execution',
       use: {
     browserName: 'chromium',
-    headless: false,
+    headless: true,
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'retain-on-failure',

@@ -13,11 +13,13 @@ jobs:
     - uses: actions/setup-node@v4
       with:
         node-version: lts/*
+    - name: Run Xvfb
+      uses: GabrielBB/xvfb-action@v1    
     - name: Install dependencies
       run: npm ci
     - name: Install Playwright Browsers
       run: npx playwright install --with-deps
-    - name: Run Playwright tests --grep PlaywrightwithGitHubActions
+    - name: Run Playwright tests 
       run: npx playwright test
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
